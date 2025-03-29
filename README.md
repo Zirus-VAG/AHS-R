@@ -24,13 +24,14 @@ VDer Vorstand:
 | xxxx                | Schriftführer Stv.  | Update der Hompage, Bericht des FV im Jahresbericht                           | link   |
 | xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung                                   | link   |
 | Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
-| xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
+
 
 
 Spezielle Funktionen: (Spezieller Dank)
 ---------------------
    - Event - Management:        xxxxxxx xxxxxx
-   - Sponsoren - Management:    xxxxxxx xxxxxxx
+   - Sponsoren - Management:    xxxxxxx xxxxxx
+   - Rechnungsprüfer:           xxxxxxx xxxxxx
 
    
 # Sponsoren des Vereins
