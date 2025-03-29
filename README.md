@@ -22,6 +22,7 @@
 
 ## Wie kann ich mit dem Verein in Kontakt treten?
   Über die offizielle E-Mail Adresse der Fördervereins
+  
   Förderverein der AHS Reininghaus: foederverein@ahs-reininghaus.at
 
 ## Was födert der Verein?
