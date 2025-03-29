@@ -5,8 +5,6 @@
 ## Vorstellung des Vereins
 
 -  Name und Anschrift des Vereins
-
-   Notwendig bei Rechnungen
 - Vereinsnummer:
 - Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
 - Mitgliedsbeitrag 2024/25: 40 Euro / Schuljahr
@@ -56,7 +54,9 @@ Spezielle Funktionen:
    xxxx (Auszug aus den Statuten)
 ## Wie kann ich einen Förderantrag einreichen?
    xxxxx (Ablauf eines Förderung durch den Verein)
-   Wichtige Informations die zu Berücksichten sind.
+      Welche informationen werden benötigt -> Überweisung / Direkt Bezahlung oder Auszahlung / Rückerstattung
+   Wichtige Informations die zu Berücksichten sind:
+      Rechnungen welche im Verein genehmigt wurden und somit bezahlt werd und somit direkt bezahlt werden, müssen auch auf den Verein ausgestellt werden. 
 
 # Wichtige Termine (Vereinsterminkalender)
 - General Versammlung 2024
