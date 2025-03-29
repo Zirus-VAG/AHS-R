@@ -13,7 +13,7 @@ Allgemeine Informationen:
 - Gegründet: im Jahr 2021 durch die Gründer xxxxx
 - Statuten des Vereins : Siehe "wichtige Links"
 
-VDer Vorstand:
+Der Vorstand:
 --------------
 
 | Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
