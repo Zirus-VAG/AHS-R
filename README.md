@@ -20,15 +20,26 @@
 
 # FAQ
 
+## Wie werde ich Vereinsmitgleid?
+   
+## 2 meiner Kinder gehen in die AHS-R. Muss ich für Beide bezahlen?
+   Antwort: nein der Mitgliedseitrag ist einmal im Jahr (einmal pro Familie) zu entrichten.
+   
+
 ## Wie kann ich mit dem Verein in Kontakt treten?
   Über die offizielle E-Mail Adresse der Fördervereins
   
   Förderverein der AHS Reininghaus: foederverein@ahs-reininghaus.at
 
-## Was födert der Verein?
+## Was fördert der Verein?
 
 ## Wie kann ich einen Förderantrag einreichen?
 
-
 # Wichtige Termine
 
+# Wichtige Informationen/Links
+   -Beitrag 2024/25: 40 Euro 
+   - Link zu den aktuelle Statuten
+   - Link zum Anmeldeformular 2024/2025 
+   Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
+   Kontodaten NICE - Nachmittagsbetreuung    xxxxxx            - Verhalter: Leiter der Nice (Siehe Schulhomepage)
