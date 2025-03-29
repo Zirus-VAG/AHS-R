@@ -51,7 +51,7 @@ Spezielle Funktionen: (Spezieller Dank)
    Wichtige Hinweis:
    -----------------
    Wir bitten um Verständnis dass bezahlte Jahresbeitrage ohne Anmeldeformular "nur" also Sponsoring gesehen werden 
-   - > Wir benötigen Ihre Informationen damit wir die Zahlungen eindeutig zuordnen können.
+   - > Wir benötigen Ihre Informationen damit wir die Zahlungen eindeutig zuordnen können und Sie direkt kontaktieren können 
    - > Weiters muss jedes Mitglied mit dr Anmeldung entsprechenden Regelungen zustimmen. 
     
 ## 2 meiner Kinder gehen in die AHS-R. Muss ich für Beide bezahlen?
