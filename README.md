@@ -22,12 +22,14 @@
 | Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
 | xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
+
 Spezielle Funktionen:
 ---------------------
-   Event - Management:
-   Sponsoren - Management:
+   Event - Management: xxxxxxx xxxxxx
+   
+   Sponsoren - Management: xxxxxxx xxxxxxx
 
-
+   
 # Sponsoren des Vereins
    - aktuell sind die Mitglieder die Hauptsponsoren des Vereins
    - die Eltern und helfenden Hände die uns bei Veranstalltungen unterstützen. 
