@@ -4,6 +4,8 @@
 
 ## Vorstellung des Vereins
 
+Allgemeine Informationen:
+-------------------------
 -  Name und Anschrift des Vereins
 - Vereinsnummer:
 - Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
@@ -11,6 +13,8 @@
 - Gegründet: im Jahr 2021 durch die Gründer xxxxx
 - Statuten des Vereins : Siehe "wichtige Links"
 
+VDer Vorstand:
+--------------
 
 | Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
 | :------------------ | :------------------ | :----------                                                                   | :---   |
@@ -23,7 +27,7 @@
 | xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
 
-Spezielle Funktionen:
+Spezielle Funktionen: (Spezieller Dank)
 ---------------------
    - Event - Management:        xxxxxxx xxxxxx
    - Sponsoren - Management:    xxxxxxx xxxxxxx
