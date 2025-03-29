@@ -6,7 +6,9 @@
 -  Name und Anschrift des Vereins
    Notwendig bei Rechnungen
 - Vereinsnummer:
-- Link zu den Statuten
+- Gegründet im Jahr : 2021 durch die Gründer xxxxx
+- Statuten des Vereins : Siehe "Wichtige Links"
+
 
 | Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
 | :------------------ | :------------------ | :----------                                                                   | :---   |
@@ -19,8 +21,8 @@
 | xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
 # Sponsoren des Vereins
-   - xxxxx
-   - xxxxx
+   - aktuell sind die Mitglieder die Hauptsponsoren des Vereins
+   - Sie habe interess an einem Sponsoring und würden ggFs. Ihr Logo gerne auf dieser Seite sehen -> Bitte kontaktieren Sie uns
    - xxxxx
 
 
@@ -45,11 +47,11 @@
 
 # Wichtige Informationen/Links
    -Beitrag 2024/25: 40 Euro 
-   - Link zu den aktuelle Statuten
+   - Link zu den aktuelle Statuten (aktuelle Fassung)
    - Link zum Anmeldeformular 2024/2025 
    
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
    Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
 
-Offene Buchführung: 
+# Offene Buchführung: 
    - Ausgaben 
