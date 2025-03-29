@@ -52,13 +52,14 @@ Spezielle Funktionen:
   Förderverein der AHS Reininghaus: foederverein@ahs-reininghaus.at
 
 ## Was fördert der Verein?
-
+   xxxx (Auszug aus den Statuten)
 ## Wie kann ich einen Förderantrag einreichen?
+   xxxxx (Ablauf eines Förderung durch den Verein)
+   Wichtige Informations die zu Berücksichten sind.
 
-# Wichtige Termine
+# Wichtige Termine (Vereinsterminkalender)
 - General Versammlung 2024
 - Sommerfest
-- 
 - 
 
 # Wichtige Informationen/Links
@@ -68,6 +69,7 @@ Spezielle Funktionen:
    - Link zur Vorlage für Förderantrag
    
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
+   
    Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
 
 # Offene Buchführung: 
