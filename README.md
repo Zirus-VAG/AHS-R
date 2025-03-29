@@ -48,7 +48,7 @@
 # Wichtige Termine
 
 # Wichtige Informationen/Links
-   -Beitrag 2024/25: 40 Euro 
+   - Beitrag 2024/25: 40 Euro / Schuljahr
    - Link zu den aktuelle Statuten (aktuelle Fassung)
    - Link zum Anmeldeformular 2024/2025 
    
