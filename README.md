@@ -9,7 +9,7 @@
 - Link zu den Statuten
 
 | Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
-| :------------------ | :------------------ | :----------                                                                   | link   |
+| :------------------ | :------------------ | :----------                                                                   | :---   |
 | Kaus Kainrath       | Präsidnet/in        | Erster Kontakt zum Verein                                                     | link   |
 | Beatrice xxxx       | Präsidnet/in Stv.   | Prüfung der Statuten                                                          | link   |
 | xxxx                | Schriftführer       | Sitzungsprotokolle, Einladungen, Meldung der Vorstands an die Vereinspolizei, | link   |
