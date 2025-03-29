@@ -18,6 +18,12 @@
 | Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
 | xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
+# Sponsoren des Vereins
+   - xxxxx
+   - xxxxx
+   - xxxxx
+
+
 # FAQ
 
 ## Wie werde ich Vereinsmitgleid?
