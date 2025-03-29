@@ -57,14 +57,15 @@ Spezielle Funktionen:
 
 # Wichtige Termine
 - General Versammlung 2024
-- Summerfest
+- Sommerfest
 - 
 - 
 
 # Wichtige Informationen/Links
    - Beitrag 2024/25: 40 Euro / Schuljahr
    - Link zu den aktuelle Statuten (aktuelle Fassung)
-   - Link zum Anmeldeformular 2024/2025 
+   - Link zum Anmeldeformular 2024/2025
+   - Link zur Vorlage für Förderantrag
    
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
    Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
