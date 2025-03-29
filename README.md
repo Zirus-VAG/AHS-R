@@ -1,4 +1,5 @@
 # AHS-R
+(LOGO)
 
 
 ## Vorstellung des Vereins
