@@ -6,6 +6,7 @@
 -  Name und Anschrift des Vereins
    Notwendig bei Rechnungen
 - Vereinsnummer:
+- Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
 - Gegründet im Jahr : 2021 durch die Gründer xxxxx
 - Statuten des Vereins : Siehe "Wichtige Links"
 
