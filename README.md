@@ -41,5 +41,6 @@
    -Beitrag 2024/25: 40 Euro 
    - Link zu den aktuelle Statuten
    - Link zum Anmeldeformular 2024/2025 
+   
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
-   Kontodaten NICE - Nachmittagsbetreuung    xxxxxx            - Verhalter: Leiter der Nice (Siehe Schulhomepage)
+   Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
