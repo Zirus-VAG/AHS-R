@@ -39,7 +39,15 @@ Spezielle Funktionen:
 # FAQ
 
 ## Wie werde ich Vereinsmitgleid?
-   
+   Antwort: 1) durch die Bezahlung des Jahresbeitrags UND 
+            2) die Bereitstellung der Personenbezogenen Informationen über das Anmeldeformular (wichtige: wichtige Links)
+
+   Wichtige Hinweis:
+   -----------------
+   Wir bitten um Verständnis dass bezahlte Jahresbeitrage ohne Anmeldeformular "nur" also Sponsoring gesehen werden 
+   - > Wir benötigen Ihre Informationen damit wir die Zahlungen eindeutig zuordnen können.
+   - > Weiters muss jedes Mitglied mit dr Anmeldung entsprechenden Regelungen zustimmen. 
+    
 ## 2 meiner Kinder gehen in die AHS-R. Muss ich für Beide bezahlen?
    Antwort: nein der Mitgliedseitrag ist einmal im Jahr (einmal pro Familie) zu entrichten.
    
