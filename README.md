@@ -8,7 +8,7 @@ Allgemeine Informationen:
 -------------------------
 -  Name und Anschrift des Vereins
 - Vereinsnummer:
-- Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
+- Anzahl der Mitgleider: xxx (Stichtag: dd.mm.2024)
 - Mitgliedsbeitrag 2024/25: 40 Euro / Schuljahr
 - Geschichte des Vereins:
     - Gegründet: im Jahr 2021 durch die Gründer xxxxx
