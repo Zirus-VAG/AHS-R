@@ -50,3 +50,6 @@
    
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
    Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
+
+Offene Buchführung: 
+   - Ausgaben 
