@@ -4,6 +4,7 @@
 ## Vorstellung des Vereins
 
 -  Name und Anschrift des Vereins
+
    Notwendig bei Rechnungen
 - Vereinsnummer:
 - Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
