@@ -24,7 +24,7 @@
 
 # Sponsoren des Vereins
    - aktuell sind die Mitglieder die Hauptsponsoren des Vereins
-   - Sie habe interess an einem Sponsoring und würden ggFs. Ihr Logo gerne auf dieser Seite sehen -> Bitte kontaktieren Sie uns
+   - Sie habe Interesse an einem "Sponsoring" und würden ggFs. Ihr Logo gerne auf dieser Seite sehen -> Bitte kontaktieren Sie uns
    - xxxxx
 
 
