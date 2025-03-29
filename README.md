@@ -22,8 +22,15 @@
 | Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
 | xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
+Spezielle Funktionen:
+---------------------
+   Event - Management:
+   Sponsoren - Management:
+
+
 # Sponsoren des Vereins
    - aktuell sind die Mitglieder die Hauptsponsoren des Vereins
+   - die Eltern und helfenden Hände die uns bei Veranstalltungen unterstützen. 
    - Sie habe Interesse an einem "Sponsoring" und würden ggFs. Ihr Logo gerne auf dieser Seite sehen -> Bitte kontaktieren Sie uns
    - xxxxx
 
@@ -46,6 +53,10 @@
 ## Wie kann ich einen Förderantrag einreichen?
 
 # Wichtige Termine
+- General Versammlung 2024
+- Summerfest
+- 
+- 
 
 # Wichtige Informationen/Links
    - Beitrag 2024/25: 40 Euro / Schuljahr
