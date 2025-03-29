@@ -9,6 +9,7 @@
    Notwendig bei Rechnungen
 - Vereinsnummer:
 - Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
+- Mitgliedsbeitrag 2024/25: 40 Euro / Schuljahr
 - Gegründet im Jahr : 2021 durch die Gründer xxxxx
 - Statuten des Vereins : Siehe "Wichtige Links"
 
@@ -63,7 +64,7 @@ Spezielle Funktionen:
 - 
 
 # Wichtige Informationen/Links
-   - Beitrag 2024/25: 40 Euro / Schuljahr
+  
    - Link zu den aktuelle Statuten (aktuelle Fassung)
    - Link zum Anmeldeformular 2024/2025
    - Link zur Vorlage für Förderantrag
