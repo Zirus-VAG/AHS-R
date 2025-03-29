@@ -8,15 +8,15 @@
 - Vereinsnummer:
 - Link zu den Statuten
 
-| Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                          | 
-| ------------------- | ------------------- | ----------                                   |
-| Kaus Kainrath       | Präsidnet/in        | Prüfung der Statuten                         |
-| Beatrice xxxx       | Präsidnet/in Stv.   |  xxx                                         |
-| xxxx                | Schriftführer       | Meldung der Vorstands an die Vereinspolizei, |
-| xxxx                | Schriftführer Stv.  | Update der Hompage                           |
-| xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung  |
-| Florian Sirowatka   | Kassier Stv.        |                                              |
-
+| Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
+| :------------------ | :------------------ | :----------                                                                   | link   |
+| Kaus Kainrath       | Präsidnet/in        | Erster Kontakt zum Verein                                                     | link   |
+| Beatrice xxxx       | Präsidnet/in Stv.   | Prüfung der Statuten                                                          | link   |
+| xxxx                | Schriftführer       | Sitzungsprotokolle, Einladungen, Meldung der Vorstands an die Vereinspolizei, | link   |
+| xxxx                | Schriftführer Stv.  | Update der Hompage                                                            | link   |
+| xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung                                   | link   |
+| Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
+| xxxxx               | Rechnungsprüfer     | Kontrolle und Bestätigung des Kassastandes                                    | link   |
 
 # FAQ
 
