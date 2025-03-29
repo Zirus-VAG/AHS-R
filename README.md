@@ -25,9 +25,8 @@
 
 Spezielle Funktionen:
 ---------------------
-   Event - Management: xxxxxxx xxxxxx
-   
-   Sponsoren - Management: xxxxxxx xxxxxxx
+   - Event - Management: xxxxxxx xxxxxx
+   - Sponsoren - Management: xxxxxxx xxxxxxx
 
    
 # Sponsoren des Vereins
