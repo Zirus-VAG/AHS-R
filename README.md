@@ -17,11 +17,17 @@
 | xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung  |
 | Florian Sirowatka   | Kassier Stv.        |                                              |
 
+
+# FAQ
+
 ## Wie kann ich mit dem Verein in Kontakt treten?
   Über die offizielle E-Mail Adresse der Fördervereins
   Förderverein der AHS Reininghaus: foederverein@ahs-reininghaus.at
 
+## Was födert der Verein?
+
 ## Wie kann ich einen Förderantrag einreichen?
 
 
- Einladung 
+# Wichtige Termine
+
