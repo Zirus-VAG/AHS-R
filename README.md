@@ -17,14 +17,14 @@ Allgemeine Informationen:
 Der Vorstand:
 --------------
 
-| Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                           | Bild   |
-| :------------------ | :------------------ | :----------                                                                   | :---   |
-| Klaus Kainrath      | Präsidnet/in        | Erster Kontakt zum Verein                                                     | link   |
-| Beatrice xxxx       | Präsidnet/in Stv.   | Prüfung der Statuten                                                          | link   |
-| xxxx                | Schriftführer       | Sitzungsprotokolle, Einladungen, Meldung der Vorstands an die Vereinspolizei, | link   |
-| xxxx                | Schriftführer Stv.  | Update der Hompage, Bericht des FV im Jahresbericht                           | link   |
-| xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung                                   | link   |
-| Florian Sirowatka   | Kassier Stv.        |                                                                               | link   |
+| Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                            | Bild   |
+| :------------------ | :------------------ | :----------                                                                    | :---   |
+| Klaus Kainrath      | Präsidnet/in        | Erster Kontakt zum Verein                                                      | link   |
+| Beatrice xxxx       | Präsidnet/in Stv.   | Prüfung der Statuten                                                           | link   |
+| xxxx                | Schriftführer       | Sitzungsprotokolle, Aussendungen, Meldung der Vorstands an die Vereinspolizei, | link   |
+| xxxx                | Schriftführer Stv.  | Update der Hompage, Bericht des FV im Jahresbericht                            | link   |
+| xxxxx               | Kassier             | Einreichen von Rechnungen für die Bezahlung                                    | link   |
+| Florian Sirowatka   | Kassier Stv.        |                                                                                | link   |
 
 
 
@@ -81,6 +81,7 @@ Spezielle Funktionen: (Spezieller Dank)
    - Link zu den aktuelle Statuten (aktuelle Fassung)
    - Link zum Anmeldeformular 2024/2025
    - Link zur Vorlage für Förderantrag
+   - Link zu Sponsoren - Antrag/Meldung
    
    Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
    
