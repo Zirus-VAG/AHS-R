@@ -8,7 +8,7 @@
 - Vereinsnummer:
 - Anzahl der Mitgleider: xxxx (Stichtag: dd.mm.yyyy)
 - Mitgliedsbeitrag 2024/25: 40 Euro / Schuljahr
-- Gegründet im Jahr : 2021 durch die Gründer xxxxx
+- Gegründet: im Jahr 2021 durch die Gründer xxxxx
 - Statuten des Vereins : Siehe "wichtige Links"
 
 
