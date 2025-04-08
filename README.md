@@ -17,6 +17,8 @@ Allgemeine Informationen:
 Der Vorstand:
 --------------
 
+Wir der Vorstand des xxxx Vereins begrüße uch ganz herzlich auf unserer neuen Webseite.
+
 | Vorstandsmitglieder | Rollen              | Aufgaben (Kurzform)                                                            | Bild   |
 | :------------------ | :------------------ | :----------                                                                    | :---   |
 | Klaus Kainrath      | Präsidnet/in        | Erster Kontakt zum Verein                                                      | link   |
