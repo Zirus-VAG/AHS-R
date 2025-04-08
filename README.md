@@ -57,7 +57,7 @@ Spezielle Funktionen: (Spezieller Dank)
    - > Weiters muss jedes Mitglied mit dr Anmeldung entsprechenden Regelungen zustimmen. 
     
 ## 2 meiner Kinder gehen in die AHS-R. Muss ich für Beide bezahlen?
-   Antwort: nein der Mitgliedseitrag ist einmal im Jahr (einmal pro Familie) zu entrichten.
+   Antwort: nein der Mitgliedsbeitrag ist einmal im Jahr (einmal pro Familie) zu entrichten.
    
 
 ## Wie kann ich mit dem Verein in Kontakt treten?
