@@ -12,6 +12,7 @@ Allgemeine Informationen (Impressum):
 - Mitgliedsbeitrag 2024/25: 40 Euro / Schuljahr
 - Geschichte des Vereins:
     - Gegründet: im Jahr 2021 durch die Gründer xxxxx
+    - 2025: Namen & Adresse wurde geändert
 - Statuten des Vereins : Siehe "wichtige Links"
 
 Der Vorstand:
