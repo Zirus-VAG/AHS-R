@@ -74,6 +74,9 @@ Spezielle Funktionen: (Spezieller Dank)
       Rechnungen welche im Verein genehmigt wurden und somit bezahlt werd und somit direkt bezahlt werden, müssen auch auf den Verein ausgestellt werden. 
 
 # Wichtige Termine (Vereinsterminkalender)
+
+Selbstverständlich haben wir auch für dieses Schuljahr wieder einiges geplant
+
 - General Versammlung 2024
 - Sommerfest
 - 
