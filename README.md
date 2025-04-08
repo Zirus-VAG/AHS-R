@@ -83,9 +83,13 @@ Spezielle Funktionen: (Spezieller Dank)
    - Link zur Vorlage für Förderantrag
    - Link zu Sponsoren - Antrag/Meldung
    
-   Kontodaten Förderverein                   xxxxxxxxxx        - Verwalter: Kassier (siehe Vorstellung des Vereins)
+   Kontodaten Förderverein                   xxxxxxxxxx        
    
-   Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        - Verhalter: Leiter der Nice (Siehe Schulhomepage)
+   - Verwalter: Kassier (siehe Vorstellung des Vereins)
+   
+   Kontodaten NICE - Nachmittagsbetreuung    xxxxxxxxxx        
+   
+   - Verhalter: Leiter der Nice (Siehe Schulhomepage)
 
 # Offene Buchführung: 
-   - Ausgaben 
+   - Ausgaben 2024/25
