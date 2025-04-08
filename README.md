@@ -4,7 +4,7 @@
 
 ## Vorstellung des Vereins
 
-Allgemeine Informationen:
+Allgemeine Informationen (Impressum):
 -------------------------
 -  Name und Anschrift des Vereins
 - Vereinsnummer:
@@ -85,6 +85,7 @@ Selbstverständlich haben wir auch für dieses Schuljahr wieder einiges geplant
   
    - Link zu den aktuelle Statuten (aktuelle Fassung)
    - Link zum Anmeldeformular 2024/2025
+   - Datenschutzerklärung
    - Link zur Vorlage für Förderantrag
    - Link zu Sponsoren - Antrag/Meldung
    
